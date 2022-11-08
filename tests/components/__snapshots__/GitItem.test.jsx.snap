@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas del Git Item Hacer match con SnapShop 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="MiTitulo"
+      src="https://pagina/foto.jpg"
+    />
+    <p>
+      MiTitulo
+    </p>
+  </div>
+</div>
+`;
